@@ -1,7 +1,7 @@
 {
-  "name": "Mickey Bot",
+  "name": "ᴀʟᴏɴᴇ ᴄʜᴀᴛ ʙᴏᴛ",
   "description": "A telegram bot",
-  "logo": "https://te.legra.ph/file/dc32c85de4f1ad9b3456b.jpg",
+  "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/Devarora-0981/Mickey",
+  "repository": "https://github.com/TeamAloneOp/AloneXChatBot",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
